@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "dev": "AWS_PROFILE=sourav_mac deno run -A main.ts"
+  }
+}
